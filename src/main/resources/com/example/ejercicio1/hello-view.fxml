@@ -9,7 +9,7 @@
 
 <AnchorPane id="AnchorPane" prefHeight="290.0"
             prefWidth="360.0"
-            xmlns="http://javafx.com/javafx/16"
+            xmlns="http://javafx.com/javafx/19"
             xmlns:fx="http://javafx.com/fxml/1"
             fx:controller="com.example.ejercicio1.HelloController">
 <children>
